@@ -8,22 +8,34 @@ const Recommends = (props) => {
       <Content>
         <Wrap>
           <Link to="/">
-            <img src="/images/recommend-1.jpg" alt="" />
+            <img
+              src="https://images.thedirect.com/media/article_full/spidmarket_FXedQbc.jpg"
+              alt=""
+            />
           </Link>
         </Wrap>
         <Wrap>
           <Link to="/">
-            <img src="/images/recommend-1.jpg" alt="" />
+            <img
+              src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg"
+              alt=""
+            />
           </Link>
         </Wrap>
         <Wrap>
           <Link to="/">
-            <img src="/images/recommend-1.jpg" alt="" />
+            <img
+              src="https://www.comingsoon.net/wp-content/uploads/sites/3/2022/04/Dr-Strange-poster.jpeg"
+              alt=""
+            />
           </Link>
         </Wrap>
         <Wrap>
           <Link to="/">
-            <img src="/images/recommend-1.jpg" alt="" />
+            <img
+              src="https://www.vibe.com/wp-content/uploads/2022/10/BlackPanther-WakandaForever_Payoff_1-Sht_v10_lg-e1665517283161.jpg?w=1024"
+              alt=""
+            />
           </Link>
         </Wrap>
       </Content>
